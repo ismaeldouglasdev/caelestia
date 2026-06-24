@@ -10,6 +10,14 @@
 - Futuras personalizações serão adicionadas aqui
 
 ## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1a5f5e4f-0b02-4912-a8ef-91309d5e5c6e" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4763de4f-ad24-4f95-bca0-e7c0c279ad57" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4fe4d008-f30c-4632-80ac-9a45838cef65" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e6081b55-86aa-4682-84b5-c2391211662a" />
+
 
 <!-- Adicione prints do seu setup aqui -->
 
